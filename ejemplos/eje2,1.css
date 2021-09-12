@@ -1,0 +1,24 @@
+body{
+    background: gray;
+    margin: 70px;
+}
+#a1,#a2{
+    width: 100px;
+    height: 100px;
+    box-shadow: 25px 10px 20px white;
+    background-color: orange;
+    border-radius: 25px 5px 40px 10px;
+    transform: rotate(-25deg);
+}
+#a1,#a2{
+    float:left;
+    width: 30%;
+    margin:0%;
+}
+
+#a1{
+    margin-right: 10%;
+}
+#a2{
+    margin-right: 10%;
+}

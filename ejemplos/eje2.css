@@ -1,0 +1,23 @@
+p,h4{
+    color:green;
+}
+.uno{
+    color:red;
+}
+#uno{
+    color:blue;
+    font-size: 30px;
+}
+p a{
+    color:red;
+    font-size: 30px;
+}
+h1.dos{
+    color:#ff0000;
+}
+p[name$="unoo"]{
+    color:lime;
+}
+p[name*="uno"]{
+    color:violet;
+}
